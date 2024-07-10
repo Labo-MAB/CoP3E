@@ -1,0 +1,11 @@
+data/**
+# Files to upload
+!data/human-openprot-r1_6-refprots+altprots+isoforms-+uniprot2019_03_01.tsv.xz
+!data/mart_export95.txt
+!data/ensembl95_trxps.fasta.xz
+!data/altprot_pep_any_unique.pkl
+
+figures/
+
+modules/__pycache__/
+.vscode/settings.json

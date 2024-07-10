@@ -1,0 +1,9 @@
+biopython==1.78
+pyfaidx==0.8.1.1
+matplotlib==3.8.4
+tqdm==4.66.4
+ipywidgets==8.1.2
+scikit-learn==1.4.2
+pandas==2.2.2
+seaborn==0.13.2
+shap==0.46.0
